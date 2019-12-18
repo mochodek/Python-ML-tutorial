@@ -17,6 +17,6 @@ conda install numpy==1.17.3
 conda install scipy==1.2.0
 conda install scikit-learn==0.19.1
 conda install seaborn==0.9.0
-'''
+```
 
 
