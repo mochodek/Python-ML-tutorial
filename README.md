@@ -14,8 +14,7 @@ conda install matplotlib==2.2.3
 conda install jupyter==1.0.0
 conda install scikit-learn==0.19.1
 conda install seaborn==0.9.0
-
-pip install -U gensim
+conda install gensim==3.8.0
 
 # for Lesson 06
 pip install talos 
